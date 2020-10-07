@@ -1,7 +1,7 @@
 swagger http://localhost:8010/swagger-ui.html
 
 Доступ к сервису возможен только при наличием токена: Bearer Token
-со значением Secret проверять в Postman.
+со значением Secret, проверять в Postman.
 
 Тестовое задание
 
